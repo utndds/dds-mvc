@@ -1,0 +1,121 @@
+C:\xampp\htdocs\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\es\System.Web.Razor.resources.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\es\System.Web.Webpages.resources.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\es\System.Web.Helpers.resources.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\bin\es\System.Web.Mvc.resources.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\xampp\htdocs\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\desktop.ini
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\es\System.Web.Razor.resources.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\es\System.Web.Webpages.resources.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\roslyn\desktop.ini
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\es\System.Web.Razor.resources.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\es\System.Web.Webpages.resources.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\user\Documents\GitHub\mvc-WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

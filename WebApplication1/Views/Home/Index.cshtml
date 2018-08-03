@@ -1,0 +1,23 @@
+﻿
+<!-- link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" -->
+
+<link href="~/Content/bootstrap.css" rel="stylesheet">
+<link href="~/Content/bootstrap.min.css" rel="stylesheet">
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado de coches</h2>
+
+<div>
+    @{
+        var grid = new WebGrid(Model, defaultSort: "Marca");
+    }
+
+    @grid.GetHtml(columns: grid.Columns (
+    grid.Column("Marca", header:"Marca"),
+    grid.Column("Modelo", header:"Modelo"),
+    grid.Column("Color", header:"Color")
+    ))
+</div>
